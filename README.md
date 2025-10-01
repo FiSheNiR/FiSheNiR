@@ -22,6 +22,7 @@ Currently deepening my expertise in enterprise-grade Java ecosystems and modern 
 ---
 
 ### 🔍 Focus Areas
+
 - Designing and implementing RESTful APIs  
 - Data persistence with JPA/Hibernate and relational databases  
 - Writing unit and integration tests (JUnit, Mockito)  
@@ -29,6 +30,7 @@ Currently deepening my expertise in enterprise-grade Java ecosystems and modern 
 
 ---
 
-📫 Feel free to reach out:
+### 📫 Feel free to reach out:
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yeahigh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markrybaltovskij@gmail.com)
